@@ -43,6 +43,7 @@ I believe strong engineers are not built only by finishing courses. They are bui
 | [Phase 2](#phase-2-data-structures) | Data Structures | My understanding of lists, dictionaries, sets, tuples, and nested data |
 | [Phase 3](#phase-3-oop-and-modules) | OOP and Modules | My progress toward writing professional, reusable Python code |
 | [Phase 4](#phase-4-dsa-and-algorithms) | DSA and Algorithms | My interview preparation and problem-solving practice |
+| [Setup Environment](setupenvironment.md) | Python Setup | How I set up Python, Conda, notebooks, and my first program |
 | [Interview Notebooks](#interview-notebooks) | Practice Notebooks | My coding interview revision and LeetCode preparation |
 
 ## Repository Structure
@@ -55,12 +56,15 @@ Python-to-ML-Engineering/
 |-- phase-4-dsa-and-algorithms/
 |-- DSA_inteview_question bank.ipynb
 |-- Interview_Leetcode_prepartion.ipynb
-`-- readme.md
+|-- setupenvironment.md
+`-- README.md
 ```
 
 ## How I Am Using This Repository
 
 This repo is my personal learning system.
+
+If you are starting from zero, begin with [setupenvironment.md](setupenvironment.md) to set up Python, Conda, Jupyter Notebook, and run your first program.
 
 My learning flow:
 
